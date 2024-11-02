@@ -1,2 +1,2 @@
 # PortfolyoTest
-Html ile oluşturulan bir portfoliyo
+Html ile oluşturulan bir portfolyo
